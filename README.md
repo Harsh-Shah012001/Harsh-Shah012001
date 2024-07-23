@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Harsh-Shah012001/Harsh-Shah012001/main/background%20banner.png)
+![MasterHead](https://raw.githubusercontent.com/Harsh-Shah012001/Harsh-Shah012001/main/background%20banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Shah</h1>
 <h3 align="center">Innovative Problem Solver with a Passion for Tech and Collaboration</h3>
 
